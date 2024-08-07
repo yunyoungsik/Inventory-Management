@@ -2,7 +2,7 @@
 
 [참고영상](https://youtu.be/ddKQ8sZo_v8?si=7Smg8bIzXgc6_JS4)
 
-3:06:14까지 완료
+4:24:28까지 완료
 
 ## 설치
 ```
