@@ -2,8 +2,6 @@
 
 [참고영상](https://youtu.be/ddKQ8sZo_v8?si=7Smg8bIzXgc6_JS4)
 
-6:05:03까지 완료
-
 ## 설치
 ```
 client
