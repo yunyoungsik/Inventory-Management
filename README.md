@@ -1,5 +1,7 @@
 # inventory management
 
+<img style="width: 100%" src="https://github.com/yunyoungsik/Inventory-Management/blob/main/client/public/thumnail.jpg?raw=true" />
+
 [참고영상](https://youtu.be/ddKQ8sZo_v8?si=7Smg8bIzXgc6_JS4)
 
 ## 설치
