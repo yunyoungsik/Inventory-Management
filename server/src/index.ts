@@ -29,7 +29,9 @@ app.use('/users', userRoutes); // curl http://localhost:8000/users
 app.use('/expenses', expenseRoutes); // curl http://localhost:8000/expenses
 
 /* server */
-const port = process.env.PORT || 3001;
-app.listen(port, () => {
+// const port = process.env.PORT || 3001;
+const port = Number(process.env.PORT) || 3001; // 배포할때 설정
+// app.listen(port, () => {
+app.listen(port, "0.0.0.0", () => { // 배포할 때 설정
   console.log(`Server running on port ${port}`);
 });
